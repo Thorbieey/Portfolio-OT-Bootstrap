@@ -12,22 +12,32 @@
     padding-left: 0 !important;
 }
 
-.btn-outline-tertiary {
-    border-color: var(--secondary-color);
+.name{
+    /* Name: Portfolio owner */
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding: 0 5px 0 20px;
+    color: var(--primary-color) !important;
+    background-color: var(--secondary-color);
 }
 
 .custom-navbar-nav{
+    /* Nav list */
     margin-left: auto;
     margin-right: 0 !important;
 }
 
 .custom-navbar-nav a{
+    /* Nav links */
     color: var(--secondary-color) !important;
 }
 
-.name{
-    font-size: 2.5rem;
-    padding: 0 5px 0 20px;
-    color: var(--primary-color) !important;
-    background-color: var(--secondary-color);
+.custom-dropdown-menu{
+    /* Contact Me options */
+    background-color: var(--primary-color) !important;
+}
+
+.btn-outline-tertiary {
+    /* Resume button */
+    border-color: var(--secondary-color);
 }
