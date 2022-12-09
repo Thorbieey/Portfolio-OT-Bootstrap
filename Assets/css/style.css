@@ -1,20 +1,21 @@
 :root {
+    /* Variables */
     --primary-color: #142727;
     --secondary-color: #00ffff;
     --tertiary-color: #201e5ee9;
 }
 
 
-/* Nav Section */
+/* Header Section */
 
 .custom-nav{
     background-color: var(--primary-color) !important;
     padding-left: 0 !important;
 }
 
-.name{
-    /* Name: Portfolio owner */
-    font-size: 2.5rem;
+.main-logo{
+    /* main-logo: Portfolio owner name */
+    font-size: 3rem;
     font-weight: 600;
     padding: 0 5px 0 20px;
     color: var(--primary-color) !important;
@@ -40,4 +41,38 @@
 .btn-outline-tertiary {
     /* Resume button */
     border-color: var(--secondary-color);
+}
+
+/* Main Section */
+/* Hero */
+.custom-jumbotron{
+    background-image: 
+    linear-gradient(var(--tertiary-color), var(--primary-color)),
+    url(../Images/02-hero-bg.jpg) !important;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+} 
+
+.custom-container{
+    width: 90%;
+    min-width: 500px;
+    max-width: 700px;
+    margin: 0px;
+    text-align: center;
+}
+
+.profile-picture{
+    /* recent picture of portfolio owner */
+    width: 45%;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    border: 3px solid var(--tertiary-color);
+}
+
+.hero-text{
+    color: var(--tertiary-color);
+    background-color: var(--secondary-color);
 }
