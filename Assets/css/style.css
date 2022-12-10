@@ -43,8 +43,7 @@
     border-color: var(--secondary-color);
 }
 
-/* Main Section */
-/* Hero */
+/* Hero Section*/
 .custom-jumbotron{
     background-image: 
     linear-gradient(var(--tertiary-color), var(--primary-color)),
@@ -76,3 +75,5 @@
     color: var(--tertiary-color);
     background-color: var(--secondary-color);
 }
+
+
