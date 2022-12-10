@@ -76,4 +76,10 @@
     background-color: var(--secondary-color);
 }
 
+/* Main Section */
+.custom-row{
+    justify-content: center;
+}
+
+
 
