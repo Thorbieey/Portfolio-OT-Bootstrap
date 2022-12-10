@@ -81,5 +81,10 @@
     justify-content: center;
 }
 
+.side-accent{
+    /* Side Accent */
+    background: var(--tertiary-color);
+    width: 5px;
+}
 
 
