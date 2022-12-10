@@ -74,6 +74,7 @@
 .hero-text{
     color: var(--tertiary-color);
     background-color: var(--secondary-color);
+    opacity: 0.5;
 }
 
 /* Main Section */
