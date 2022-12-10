@@ -79,12 +79,17 @@
 /* Main Section */
 .custom-row{
     justify-content: center;
+    margin-top: 40px;
 }
 
 .side-accent{
     /* Side Accent */
     background: var(--tertiary-color);
     width: 5px;
+}
+
+.page-section h2{
+    text-align: right;
 }
 
 
