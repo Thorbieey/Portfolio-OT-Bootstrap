@@ -50,23 +50,23 @@
     url(../Images/02-hero-bg.jpg) !important;
     background-size: cover;
     height: 500px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
+    
 } 
 
 .custom-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
     width: 90%;
-    min-width: 500px;
-    max-width: 700px;
-    margin: 0px;
+    height: 100%;
     text-align: center;
 }
 
 .profile-picture{
     /* recent picture of portfolio owner */
-    width: 45%;
-    margin-bottom: 10px;
+    height: 70%;
+    margin-bottom: 20px;
     border-radius: 50%;
     border: 3px solid var(--tertiary-color);
 }
@@ -75,12 +75,13 @@
     color: var(--tertiary-color);
     background-color: var(--secondary-color);
     opacity: 0.5;
+    font-size: 2.5rem;
 }
 
 /* Main Section */
 .custom-row{
     justify-content: center;
-    margin-top: 40px;
+    margin: 40px;
 }
 
 .side-accent{
@@ -90,7 +91,13 @@
 }
 
 .page-section h2{
+    /* Section Heading */
     text-align: right;
+}
+
+.about p{
+    /* About section text */
+    padding: 5px 0px;
 }
 
 
