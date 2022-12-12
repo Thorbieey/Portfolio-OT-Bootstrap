@@ -120,3 +120,19 @@
 .custom-card-text{
     font-size: 10px;
 }
+
+/* Footer */
+footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: center;
+    background-color: var(--primary-color);
+}
+
+.custom-btn-primary{
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    border-color: var(--secondary-color);
+    margin: 10px;
+}
+
