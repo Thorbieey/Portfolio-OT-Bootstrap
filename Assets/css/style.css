@@ -104,6 +104,9 @@
 /* Work */
 .custom-card{
     color: var(--tertiary-color);
+    border: 5px solid var(--secondary-color);
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .custom-card-img-overlay{
