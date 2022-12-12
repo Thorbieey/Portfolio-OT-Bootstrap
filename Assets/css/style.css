@@ -136,6 +136,10 @@ main{
     background-color: var(--tertiary-color);
 }
 
+.skill{
+    font-size: 20px;
+}
+
 /* Footer */
 footer{
     padding-top: 5px;
