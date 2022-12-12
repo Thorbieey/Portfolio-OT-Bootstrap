@@ -141,6 +141,8 @@ main{
 
 .skill{
     font-size: 20px;
+    background: linear-gradient(var(--secondary-color), #9198e5);
+    border: 1px solid var(--tertiary-color);
 }
 
 /* Footer */
