@@ -102,3 +102,6 @@
 }
 
 /* Work */
+.custom-card{
+    color: var(--tertiary-color);
+}
