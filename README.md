@@ -49,7 +49,7 @@ SO THAT recruiters can easily view and access my proficiency as a web developer 
 * The URL of the GitHub repository: 
 [https://github.com/Thorbieey/Portfolio-OT-Bootstrap.git](https://github.com/Thorbieey/Portfolio-OT-Bootstrap.git)
 
-#### Porfolio Demo
+#### Portfolio Demo
 
 ![Demo showing portfolio](./Images/bootstrap-portfolio-demo.gif)
 
