@@ -51,7 +51,7 @@ SO THAT recruiters can easily view and access my proficiency as a web developer 
 
 #### Porfolio Demo
 
-![Demo showing portfolio](./Assets/Images/bootstrap-portfolio-demo.gif)
+![Demo showing portfolio](./Images/bootstrap-portfolio-demo.gif)
 
 ## Credits
 
