@@ -5,6 +5,10 @@
     --tertiary-color: #201e5ee9;
 }
 
+body {
+    background-color: #fff;
+    margin-right: 5px;
+}
 
 /* Header Section */
 
