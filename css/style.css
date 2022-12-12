@@ -119,7 +119,7 @@ main{
 }
 
 /* About Me */
-.about p{
+.about-text{
     /* About section text */
     padding: 5px 0px;
 }
