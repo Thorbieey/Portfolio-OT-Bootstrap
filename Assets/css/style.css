@@ -33,6 +33,11 @@
     color: var(--secondary-color) !important;
 }
 
+.custom-nav-link:hover {
+    color: var(--primary-color) !important;
+    background-color: var(--secondary-color);
+}
+
 .custom-dropdown-menu{
     /* Contact Me options */
     background-color: var(--primary-color) !important;
