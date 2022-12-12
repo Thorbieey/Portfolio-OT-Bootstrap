@@ -84,6 +84,10 @@
 }
 
 /* Main Section */
+main{
+    color: var(--tertiary-color);
+}
+
 .custom-row{
     justify-content: center;
     margin: 40px;
