@@ -165,3 +165,12 @@ footer{
     box-shadow: 6px 3px 9px var(--secondary-color);
 }
 
+/* Media Query */
+@media only screen and (max-width: 50em) {
+    
+    #about,
+    #work,
+    #skills {
+    border-bottom: 3px solid var(--tertiary-color);
+    }
+}
