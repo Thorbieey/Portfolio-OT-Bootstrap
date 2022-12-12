@@ -105,3 +105,10 @@
 .custom-card{
     color: var(--tertiary-color);
 }
+
+.custom-card-img-overlay{
+    background-color: var(--secondary-color);
+    height: max-content;
+    width: max-content;
+    padding: 5px;
+}
