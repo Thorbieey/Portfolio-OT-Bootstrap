@@ -158,5 +158,7 @@ footer{
 .custom-btn-primary:hover {
     color: var(--primary-color);
     background-color: var(--secondary-color);
+    border-color: var(--primary-color);
+    box-shadow: 6px 3px 9px var(--secondary-color);
 }
 
