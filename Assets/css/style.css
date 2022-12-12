@@ -116,3 +116,7 @@
     padding: 5px;
     top: 70%;
 }
+
+.custom-card-text{
+    font-size: 10px;
+}
