@@ -130,6 +130,12 @@ main{
     font-size: 10px;
 }
 
+/* Skills */
+.custom-badge-primary {
+    color: var(--secondary-color);
+    background-color: var(--tertiary-color);
+}
+
 /* Footer */
 footer{
     padding-top: 5px;
