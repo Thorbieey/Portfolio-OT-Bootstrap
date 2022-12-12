@@ -134,6 +134,10 @@ main{
 }
 
 /* Skills */
+.custom-list-group{
+    margin: 5px;
+}
+
 .custom-badge-primary {
     color: var(--secondary-color);
     background-color: var(--tertiary-color);
